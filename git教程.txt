@@ -1,0 +1,6 @@
+1 配置全局用户信息
+	
+$ git config --global user.name "guoxiao"
+$ git config --global user.email 414247624@qq.com
+
+2
